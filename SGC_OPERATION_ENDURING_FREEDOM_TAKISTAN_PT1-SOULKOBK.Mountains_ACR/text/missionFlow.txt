@@ -1,0 +1,25 @@
+[1] get players to do their loadouts via ace arsenal (restrictions are on)
+
+[2] mission leader (see initServer.sqf and SGC_var_missionOwners) access to mission table (under tent), hold key to turn off music.
+
+[3] once music has stopped playing and everyone has completed their loadouts, mission leader to mission table, hold key to play orders-call (call everyone in to mission briefing area).
+
+[4] read contents of missionBriefing.txt over radio 152.
+
+[5] mission leader to mission table, hold key to play salute-call (get all players to salute whilst music playing).
+
+[6] order players to roll out/start mission.
+
+[7] mission leader to mission table, hold key to play last-post-call.
+
+[8] whilst last-post-call music playing, board vehicles and proceed out of the fob and west along the road. tasks will auto populate from here on out.
+
+basic mission tasking will be to clear all compounds along the way of any enemy threats, ultimate goal is to destroy all enemy threats, complete all sub-tasks, capture the insurgency officer (alive) and bring him back to the fob (alive). if the insurgency officer dies at any stage, get a medic to place the body in to a bodybag asap! this body bag must be taken back to the fob after tasking and sub tasking is complete (success or fail).
+
+approximate time of play is 3 hours (mission is set up for up to 32 players).
+
+[9] mission end, place insurgency officer near loud speaker at the front of briefing area (alive or dead), get players to line up there and face towards the vehicles (north west). mission leader to mission table, hold key to play ultimate-victory. music will play and 3 jets will fly fast overhead with different color smoke trails, then loop around overhead and off in to the distance.
+
+[10] mission end.
+
+(see initServer SGC_var_whiteListedChatCommands) chat command '#sgc status' will reveal stats of death counts, enemy, player, civilian and animals.

@@ -1,0 +1,28 @@
+
+how to 'operation medevac'...
+
+mod list preset included as a html file (import it to your a3launcher).
+
+interact with the computer inside the main tent (with timer), scrollwheel to select your mission option.
+
+medevac missions will spawn anywhere on the island (random), once triggered, check your map for a red area of operations. the green icons on map are your friendly medevac soldiers that you will need to rescue and bring back to base. there will be hostile forces in the area of operations (random), infantry only. your mission is to rescue your friendly soldiers, if you are shot at... shoot back! load the medevacs in to your transport vehicle (heli, truck, whatever) and head back to the medical base.
+
+once back at base, unload all medevacs, carry them to inside the medical tent(s), use ace interaction on the stretcher(s) to place the unit, once the unit is placed, continue medical attention. medevacs will probably stay unconscious for the duration until on the stretcher.
+
+treat the medevacs proper.
+
+if they wake up and in pain, they will roll around on the stretcher.
+if they wake up and are not in pain, they will half sit up.
+once a medevac is stable, they will fully sit up on the stretcher.
+
+once you have completed a medevac, treated all the soldiers to stable state, then it is mission complete... interact with the computer inside the main tent to select a new mission (with timer), scrollwheel to select your option.
+
+get bored of doing medevac after medevac? trigger a base defend with 1 to 3 waves of enemies (options at the bottom of the scroll-wheel list). want to medevac and defend at the same time to enhance the danger? go for it... just be sure to protect your medevacs as the enemy will kill them on the stretchers!
+
+this mission was written as training for medical with the new/updated ace medical system. it works rather well, and enforces team work. you can allocate different teams, 1 doctor team (stays back in the tents awaiting soldiers for treatment, then treats them), pilot (dedicated to fly the helicopters), team leader (coordinates what, when and where), autoriflemen (ground crew to attack/defend and medevac).
+
+p.s. everyone is a medic, and can apply medical aid when/where needed!
+
+enjoy.
+
+-soulkobk.
